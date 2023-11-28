@@ -4,12 +4,13 @@ namespace FamilyMembers
 {
     public class Person
     {
+        private Person? mother;
+        private Person? father;
+
         public string Name { get; set; }
         public string Surname { get; set; }
         public DateOnly Birthday { get; set; }
         public Gender Gender { get; set; }
-        private Person? mother;
-        private Person? father;
         public Person? Mother
         {
             get { return mother; }
