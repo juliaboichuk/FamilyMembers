@@ -1,0 +1,14 @@
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\bin\Debug\net7.0\FamilyMembers.exe
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\bin\Debug\net7.0\FamilyMembers.deps.json
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\bin\Debug\net7.0\FamilyMembers.runtimeconfig.json
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\bin\Debug\net7.0\FamilyMembers.dll
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\bin\Debug\net7.0\FamilyMembers.pdb
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\FamilyMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\FamilyMembers.AssemblyInfoInputs.cache
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\FamilyMembers.AssemblyInfo.cs
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\FamilyMembers.csproj.CoreCompileInputs.cache
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\FamilyMembers.dll
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\refint\FamilyMembers.dll
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\FamilyMembers.pdb
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\FamilyMembers.genruntimeconfig.cache
+C:\Users\boych\source\repos\FamilyMembers\FamilyMembers\obj\Debug\net7.0\ref\FamilyMembers.dll
